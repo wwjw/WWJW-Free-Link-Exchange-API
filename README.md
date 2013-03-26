@@ -2,6 +2,7 @@ WWJW-Free-Link-Exchange-API
 ===========================
 
 1.If you haven't submitted any websites to our directory,please do as follows:
+
        (1) You have to register in our website before you submit any website to our directory.
        (2) Visit http://www.wwjw.com/submit.php  (Attention:The website wwjw.com only contains shopping sites.Please submit non shopping sites to wwjw Directory)
        (3) Visit http://d.wwjw.com/submit.php    (Attention:The website d.wwjw.com only contains non shopping sites.Please submit shopping sites to wwjw.com Directory)
@@ -13,6 +14,7 @@ WWJW-Free-Link-Exchange-API
 4.After you download the plugin,unzip the package to the root directory in your website.The unzipped directory is wwjw_links.Attention:No revise for the directory name.
 
 5.Open the files /wwjw_links/ index.php and cate.php to find the following code:
+
          $config = array(
      'user_id' => 1,
 	   'consumer_key' => '4ea4fb597f9b34881263f203ae92a2b9050ec14cf',
